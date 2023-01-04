@@ -1,4 +1,8 @@
 <?php
+include "includes/db.php";
+?>
+
+<?php
 include "includes/header.php";
 ?>
 
@@ -40,7 +44,6 @@ include "includes/nav.php";
             <hr>
 
 
-            
         </div>
 
         <!-- Blog Sidebar Widgets Column -->
